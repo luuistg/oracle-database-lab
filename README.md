@@ -1,4 +1,3 @@
-
 # Oracle Database Lab (Training Edition - Academic Version)
 
 Trainig repository for Oracle Database administration,
