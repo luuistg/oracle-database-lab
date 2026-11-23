@@ -1,0 +1,4 @@
+ORDS arrancando en segundo plano...
+Database Actions responde con HTTP 200
+COMMAND   PID                    USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+java    78384 luistortosagonzluisalez    8u  IPv6 0x545ef5d94da06a97      0t0  TCP *:8080 (LISTEN)
